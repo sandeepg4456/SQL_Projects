@@ -8,7 +8,7 @@ In this repository, you will find various SQL projects for unique data analysis 
 
 Here are some examples of the projects you can find in this repository:
 
-- [CODEX Challenge](https://github.com/akikl/SQLprojects/tree/main/CODEX%20Challenge): CodeX is a German beverage company that is aiming to make its mark in the Indian market. They conducted a survey in those 10 cities and received results from 10k respondents. Peter Pandey, a marketing data analyst is tasked to convert these survey results to meaningful insights which the team can use to drive actions.
+- [CODEX Challenge](Codex_Challenge/Codex_Challenge_Solutions.sql): CodeX is a German beverage company that is aiming to make its mark in the Indian market. They conducted a survey in those 10 cities and received results from 10k respondents. Peter Pandey, a marketing data analyst is tasked to convert these survey results to meaningful insights which the team can use to drive actions.
 
 Feel free to explore the projects and choose the ones that interest you the most. Each project comes with a set of tasks or challenges that uses sql for data analysis and problem-solving skills.
 
